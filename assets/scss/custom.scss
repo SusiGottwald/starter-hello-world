@@ -1,0 +1,31 @@
+// Override this file to add your own SCSS styling.
+
+.parallax {
+  background-attachment: scroll;
+}
+
+.home-section {
+    background: #f7f7f7;
+    position: relative;
+    padding: 50px 0 30px 0;
+    z-index: 0;
+}
+
+.img-vorschau {
+  border:1px solid grey;
+  border-radius: 3px 15px 5px 30px;
+  height: 200px;
+}
+
+.gedicht {
+  text-align: center;
+  line-height: 1em;
+  font-family: cursive;
+}
+
+.project-card {
+    position: relative;
+    width: calc( 25% - 13.3px);
+    float: left;
+    padding: 10px;
+}

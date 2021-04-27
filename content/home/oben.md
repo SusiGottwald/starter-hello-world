@@ -7,8 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Wir backen grad eine knackfrische Webseite. Noch ist sie im Ofen..."
-subtitle: "... aber bald könnt ihr sie genießen!"
+title: "👋 Wir backen für Euch eine knackfrische Webseite"
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,7 +21,7 @@ design:
     #gradient_start: "DarkGreen"
     #gradient_end: "ForestGreen"
     image: hello1.png  # Name of image in `static/media/`.
-    image_darken: 0.5
+    image_darken: 0.6
     image_size: cover
     image_position: right
     image_parallax: true
@@ -31,3 +30,8 @@ advanced:
   css_style:
   #css_class: fullscreen
 ---
+<center>
+
+Noch ist sie im Ofen... aber bald könnt ihr sie genießen!
+
+</center>

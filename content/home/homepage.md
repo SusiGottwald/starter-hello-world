@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 30  # Order that this section will appear.
 
-title: ""
+title: "So könnt Ihr uns erreichen"
 subtitle: ""
 
 design:
@@ -19,8 +19,8 @@ design:
     #   Choose a light or dark text color by setting `text_color_light`.
     #   Any HTML color name or Hex value is valid.
     # color: navy
-    # gradient_start: DarkGreen
-    # gradient_end: ForestGreen
+    #gradient_start: DarkGreen
+    #gradient_end: ForestGreen
     image: hello.png  # Name of image in `static/media/`.
     image_darken: 0.8
     image_size: cover
@@ -29,14 +29,16 @@ design:
     text_color_light: true
 advanced:
   css_style:
-  css_class: fullscreen
+  #css_class: fullscreen
 ---
 
-
-## Ihr könnt uns schon erreichen
+<center>
 
 [{{< icon name="envelope" pack="fas" >}}post@generationsbäckerei-horn.de](mailto:post@generationsbäckerei-horn.de)
 
-[{{< icon name="instagram" pack="fab" >}}generationsbaeckerei_horn](https://www.instagram.com/generationsbaeckerei_horn)  
+[{{< icon name="instagram" pack="fab" >}}generationsbaeckerei_horn](https://www.instagram.com/generationsbaeckerei_horn)
 
 [{{< icon name="facebook" pack="fab" >}}gartencafehorn](https://www.facebook.com/gartencafehorn)
+
+</center>
+
